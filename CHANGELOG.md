@@ -1,3 +1,4 @@
-## 0.0.1
+## 0.1.0
 
-* TODO: Describe initial release.
+* RectangularButton & BorderedRectangular Buttons are made and added
+

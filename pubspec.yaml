@@ -1,7 +1,7 @@
 name: basepack
-description: Base Widgets
-version: 0.0.1
-homepage: https://www.aravi.me
+description: Custom Widget Pack for Flutter Apps
+version: 0.1.0
+homepage: https://docs.aravi.me/flutter/basepack
 
 environment:
   sdk: '>=2.18.4 <3.0.0'
