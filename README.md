@@ -1,1 +1,1 @@
-# basepack-flutter
+A package made for my own applications and use, it might not be able to match your needs so use it at your own risk.

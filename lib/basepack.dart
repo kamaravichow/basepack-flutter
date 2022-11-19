@@ -1,0 +1,5 @@
+library basepack;
+
+class BasePack {
+  
+}
