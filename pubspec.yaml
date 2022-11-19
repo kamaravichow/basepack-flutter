@@ -1,6 +1,6 @@
 name: basepack
-description: Custom Widget Pack for Flutter Apps
-version: 0.1.0
+description: Custom made widgets for Flutter apps as the current widgets are kinda boring. This is a personal package.
+version: 0.1.1
 homepage: https://docs.aravi.me/flutter/basepack
 
 environment:
